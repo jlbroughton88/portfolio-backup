@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.523735c2.chunk.css",
+    "main.js": "/static/js/main.a6d909fc.chunk.js",
+    "main.js.map": "/static/js/main.a6d909fc.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.ec804051.chunk.js": "/static/js/2.ec804051.chunk.js",
+    "static/js/2.ec804051.chunk.js.map": "/static/js/2.ec804051.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b57f583db5995c9b2b6768989d756101.js": "/precache-manifest.b57f583db5995c9b2b6768989d756101.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.523735c2.chunk.css.map": "/static/css/main.523735c2.chunk.css.map",
+    "static/media/calculator.png": "/static/media/calculator.f93d2056.png",
+    "static/media/guessingGame.png": "/static/media/guessingGame.aa7c5ad7.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/loneSoldier.png": "/static/media/loneSoldier.48d0edd3.png",
+    "static/media/meInBooneCopy.JPG": "/static/media/meInBooneCopy.e4aa3d3f.JPG",
+    "static/media/portfolioPic.png": "/static/media/portfolioPic.aa3f56a6.png",
+    "static/media/resumeForPortfolio.pdf": "/static/media/resumeForPortfolio.e4074cfc.pdf"
+  }
+}
