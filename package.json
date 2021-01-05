@@ -5,7 +5,7 @@
   "proxy": "http://localhost:3001",
   "homepage" : "http://jlbroughton88.github.io/Portfolio",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-preset-react-app": "^7.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
